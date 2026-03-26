@@ -1,5 +1,6 @@
 .build/
 .vscode/
+.claude/
 *.biprivatekey
 *.log
 *.pbo
