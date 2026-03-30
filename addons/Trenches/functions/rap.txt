@@ -1,0 +1,3 @@
+prefix=
+product=
+version=1.6.9.7-cb40083a
