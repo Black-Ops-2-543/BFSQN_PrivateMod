@@ -1,0 +1,10 @@
+Authority:  BFSQN_Private_Mod_Key
+Creation:   3/31/2026 8:41:49 PM (by ODIN\sgtob)
+
+== PRIVATE KEY ==
+File: E:\Games (E M.2)\Arma 3 Modding\BFSQN Private Mod\BFSQN_PrivateMod\BFSQN_Private_Mod_Key.biprivatekey
+MD5: e126430bcc4e21de42346a358295dcf6
+== PUBLIC KEY ==
+File: E:\Games (E M.2)\Arma 3 Modding\BFSQN Private Mod\BFSQN_PrivateMod\BFSQN_Private_Mod_Key.bikey
+MD5: c2261fc7b57b0e6ee324d8ed9880dd4e
+
