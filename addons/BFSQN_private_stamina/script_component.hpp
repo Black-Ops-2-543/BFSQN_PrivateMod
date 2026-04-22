@@ -1,4 +1,9 @@
 #define SPOKE "Blackforce Private Mod - Stamina"
 #define COMPONENT stamina
 
-#include "..\BFSQN_private_core\universal_script_component.hpp" // this must be last
+#define PREFIX BFSQN
+#define REQUIRED_VERSION 2.12
+#define AUTHOR "Blackforce Squadron"
+
+#define DOUBLES(a,b) a##_##b
+#define ADDON DOUBLES(PREFIX,COMPONENT)
