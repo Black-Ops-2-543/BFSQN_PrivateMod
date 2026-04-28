@@ -1,5 +1,5 @@
-#define SPOKE "Blackforce Private Mod - cloaks"
-#define COMPONENT cloaks
+#define SPOKE "Blackforce Private Mod - Less Bouncy 40mm"
+#define COMPONENT 40mm
 
 #define PREFIX BFSQN
 #define REQUIRED_VERSION 2.12

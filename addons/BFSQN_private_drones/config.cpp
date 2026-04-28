@@ -37,7 +37,7 @@ class CfgPatches
 			"A3_Data_F_Destroyer_Loadorder",
 			"A3_Data_F_Sams_Loadorder",
 			"cba_main",
-			"BFSQN_core"
+			"BFSQN_private_core"
 		};
 	};
 };
