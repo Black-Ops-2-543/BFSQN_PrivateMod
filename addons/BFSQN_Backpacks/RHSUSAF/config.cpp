@@ -1,5 +1,5 @@
 ﻿#include "script_component.hpp"
-#define MAXLOAD 500
+#include "../maxload.hpp"
 
 class CfgPatches
 {
