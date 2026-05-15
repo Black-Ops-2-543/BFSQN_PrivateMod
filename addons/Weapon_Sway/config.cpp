@@ -1,8 +1,3 @@
-class BIS_AddonInfo
-{
-	author="IZackI";
-	timepacked="";
-};
 class CfgPatches
 {
 	class StaminaOverhaul
@@ -118,9 +113,4 @@ class CfgMovesMaleSdr: CfgMovesBasic
 			speed=0.60000002;
 		};
 	};
-};
-class cfgMods
-{
-	author="Viper52elite";
-	timepacked="1666615904";
 };
