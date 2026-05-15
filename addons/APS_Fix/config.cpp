@@ -22,6 +22,7 @@ class CfgPatches
 		author="Discord: neko.en";
 		url="https://github.com/lukegotjellyfish";
 		version=1;
+		skipWhenMissingDependencies = 1;
 	};
 };
 class CfgFunctions
